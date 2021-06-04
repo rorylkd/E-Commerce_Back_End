@@ -43,7 +43,7 @@ router.get("/:id", async (req, res) => {
   // be sure to include its associated Product data
 });
 
-router.post("/", (req, res) => {
+router.post("/", async (req, res) => {
   try {
     const tagData = await Tag.create({
       tag_name: req.body.tag_name,
