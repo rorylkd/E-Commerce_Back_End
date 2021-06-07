@@ -22,3 +22,5 @@ Users should install the required dependencies by running npm install. They shou
 The user can create and use the database using MYSQL. Once the database is active, use npm run seed to seed the database with starting values. The server can then be started with npm start.
 
 ## Walkthrough Video <a name="walkthrough"><a/>
+
+https://drive.google.com/file/d/1rnTm9e7sZLbZPcb7T3YcoErBmK3lD-8o/view
